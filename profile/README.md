@@ -14,7 +14,7 @@ Command language created for more elegant and intuitive automation. Spiritual su
 - [ ] [Tome]() (Planned) — The Official CLI tool to interact with tomefiles
 - [x] [Parser library](https://github.com/tomefile/lib-parser) — Go library for parsing tomefiles to be used by other projects
 - [x] [Validator library](https://github.com/tomefile/lib-validator) — Go library for validating Parser results to be used by other projects
-- [ ] [Tree-sitter]() (Planned) — Syntax highlighting for editors
+- [x] [Tree-sitter](https://github.com/tomefile/tree-sitter-tome) — Syntax highlighting for editors
 - [ ] [LSP]() (Planned) — Language integration for editors
 - [x] [Errors library](https://github.com/tomefile/lib-errors) — Go library for pretty-printed detailed errors
 
