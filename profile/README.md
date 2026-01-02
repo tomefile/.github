@@ -1,11 +1,11 @@
 # Tomefile
 
-Command language created for more elegant and intuitive automation. Spiritual successor to Makefiles.
+Command language created for more elegant and intuitive automation.
 
 <!-- vim-markdown-toc GFM -->
 
 * [Projects](#projects)
-* [Features](#features)
+* [Features and specification](#features-and-specification)
 
 <!-- vim-markdown-toc -->
 
@@ -19,6 +19,6 @@ Command language created for more elegant and intuitive automation. Spiritual su
 - [ ] [LSP](<>) (Planned) — Language integration for editors
 - [x] [Errors library](https://github.com/tomefile/lib-errors) — Go library for pretty-printed detailed errors
 
-## Features
+## Features and specification
 
-No features, i guess it's a useless language...
+Please refer to the [Tomefile Specification](https://github.com/tomefile/specification).
